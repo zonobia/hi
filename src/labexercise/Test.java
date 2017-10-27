@@ -20,7 +20,6 @@ public class Test {
 
     public static void main(String[] args) {
         hei hi = new hei(2);
-        
   
     // line 6
  
